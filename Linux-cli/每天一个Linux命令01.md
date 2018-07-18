@@ -23,3 +23,7 @@
 ls -l A* 
 例如:输出当前目录下的所有文件(包含隐藏文件)的绝对路径,对路径不做递归 
 find $PWD -maxdepth 1|xargs ls -ld 
+
+
+
+*test:
